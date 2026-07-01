@@ -1,25 +1,34 @@
-## 👋 Hej!
+## 👋 Hi, I'm Robert!
 
-Jag studerar till Javautvecklare på IT-Högskolan i Stockholm och har en stark passion för problemlösning och systemutveckling. Efter att ha arbetat inom skola i cirka 7 år innan jag påbörjade min IT-resa (2024), har jag utvecklat en bra förståelse för samarbete, nyfikenhet och lagarbete, något jag tar med mig in i mina IT-projekt.
+I'm a newly graduated Java developer with a background in system development, currently working as a Software Developer at **Voice Provider Sweden AB**. Before my tech career, I spent ~7 years in education — which gave me a strong foundation in collaboration, communication, and curiosity.
+
 <hr>
 
-💻 **Kompetenser:**
+💻 **Tech Stack:**
+<br><br>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <br><br>
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /><br><br>
 <hr>
 
-📚 Just nu fördjupar jag mig i Java-backendutveckling och ser fram emot att fortsätta utvecklas inom både frontend och backend för att bli en komplett fullstack-utvecklare.
+🚀 **What I'm working on:**
 
+- **Notify Relay** — a production event-driven notification service routing data from ElevenLabs to SMS, email, and receipt systems
+- **Voice Stock** — an inventory management app with real-time reservation logic built on REST APIs
+- **Holly Analytics** — an internal analytics tool built in collaboration and used in production at Voice Provider Sweden AB
+- Implementing automated tests and CI/CD improvements in existing Java applications
 
-🎯 **Mål:** Att arbeta som Javautvecklare eller systemutvecklare och bidra till att utveckla smarta, hållbara lösningar, samtidigt som jag fortsätter att växa som fullstackutvecklare.
+<hr>
 
----
+🎯 **Goal:** To grow as a Software Developer — building scalable, maintainable backend systems while continuing to expand my full-stack skills.
 
-🔗 Utforska gärna mina projekt och följ min utvecklingsresa här på GitHub!
+<hr>
+
+🔗 Feel free to explore my projects below!
